@@ -1,0 +1,16 @@
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.FormMain.resources
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.FormAddThing.resources
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.FormLoginAndReg.resources
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.FormNotice.resources
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.Properties.Resources.resources
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\bin\Debug\PlanTables.exe.config
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\bin\Debug\PlanTables.exe
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\bin\Debug\PlanTables.pdb
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\bin\Debug\SunnyUI.Common.dll
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\bin\Debug\SunnyUI.dll
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.csproj.CopyComplete
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.exe
+C:\Users\Administrator\Downloads\PlanTable-master (1)\PlanTable-master\PlanTables\obj\Debug\PlanTables.pdb
